@@ -1,0 +1,5 @@
+<?php
+$eventName = "Great Winter Hunt" . "!";
+
+// In UTC
+$countdownDate = "Dec 8, 2020 16:00:00";
