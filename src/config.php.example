@@ -1,0 +1,43 @@
+<?php
+
+$allowed_extension_versions = file("versions.txt", FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+
+$servername = "mhct-db";
+$username = "admin";
+$password = "admin";
+$dbname = "mhhunthelper";
+$port = "3306";
+
+$htapi = "";
+
+$mms_servername = ""; // host
+$mms_username = "";
+$mms_password = "";
+$mms_dbname = "";
+$mms_port = "3306";
+
+
+
+// $fb_app_id = "";
+// $fb_app_secret = "";
+
+// $discord_webhook_url = "";
+
+$convertible_servername = ""; // host
+$convertible_username = "";
+$convertible_password = "";
+$convertible_dbname = "";
+$convertible_port = "3306";
+
+$random_uuid_hash_1 = '';
+$random_uuid_hash_2 = '';
+
+$giveaway_url = '';
+$giveaway_key = '';
+$giveaway_start_time = 0;
+$giveaway_end_time = 0; // disabled by default
+
+// 3rd party integrations
+$query_user_agent = 'mhct';
+
+$markethunt_domain = 'api.markethunt.win';
