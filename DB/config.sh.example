@@ -1,0 +1,6 @@
+#!/bin/bash
+
+MH_USER=""
+MH_PASS=""
+MH_DUMP=/var/lib/mysql-files
+
