@@ -1,0 +1,18 @@
+/stages.txt
+/mhhh.pem
+/old versions/
+/.idea/
+/docker-compose.yml
+ga.php
+/DB/config.sh
+/DB/*.sql.gz
+/DB/*.txt.zip
+/DB/last_updated.txt
+/src/config.php
+/src/check-ban.php
+/src/tracker.json
+/src/banned.json
+/src/rejections.json
+/src/countdown-settings.php
+/src/versions.txt
+/vendor
